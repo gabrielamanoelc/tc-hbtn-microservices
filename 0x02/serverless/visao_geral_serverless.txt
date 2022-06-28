@@ -1,0 +1,5 @@
+Arquitetura Serverless, ou “computação sem servidores”, é uma arquitetura de computação orientada a eventos. Function as a Service 
+(FaaS) é um serviço de computação em nuvem que busca abstrair a questão de servidor e máquinas onde rodam os seus programas. 
+Gerenciamento operacional simplificado, Rápida inovação, Custo operacional reduzido, Flexibilidade
+cloud computing, ou computação na nuvem, é uma tecnologia que permite acesso remoto a softwares, armazenamento de arquivos e processamento de dados por meio da internet. É uma alternativa para você acessar dados importantes de qualquer computador, em qualquer lugar.
+No desenvolvimento monolítico, é importante que o sistema utilize linguagem única. Isso deixa de fora a oportunidade de usar outras opções que poderiam ser mais úteis para a nova funcionalidade. Na arquitetura de microsserviços, cada um dos serviços é interdependente e tem baixo nível de acoplamento enquanto serveless se trata de uma arquitetura orientada a eventos
